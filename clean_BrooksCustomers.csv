@@ -1,0 +1,501 @@
+customer_id,price_range,customer_support,run_type,arch_type,customer_gender
+1,220,Support,Trail,Medium Arch,Men's
+2,213,Support,Trail,High Arch,Women's
+3,70,Max Support,Road,Flat Arch,Men's
+4,156,Support,Trail,High Arch,Men's
+5,165,Support,Road,High Arch,Women's
+6,120,Support,Trail,Flat Arch,Women's
+7,122,Max Support,Road,Medium Arch,Men's
+8,186,Support,Trail,Medium Arch,Men's
+9,158,Neutral,Road,Medium Arch,Women's
+10,210,Neutral,Road,High Arch,Women's
+11,232,Max Support,Road,Flat Arch,Women's
+12,96,Support,Road,Flat Arch,Men's
+13,241,Max Support,Trail,High Arch,Men's
+14,114,Max Support,Trail,Medium Arch,Women's
+15,242,Support,Road,Flat Arch,Men's
+16,227,Support,Trail,Medium Arch,Women's
+17,124,Max Support,Trail,Flat Arch,Women's
+18,166,Neutral,Trail,Medium Arch,Men's
+19,100,Support,Road,Flat Arch,Women's
+20,110,Support,Road,High Arch,Men's
+21,219,Neutral,Trail,Medium Arch,Men's
+22,105,Neutral,Road,High Arch,Men's
+23,188,Support,Road,Flat Arch,Men's
+24,194,Support,Road,High Arch,Men's
+25,168,Max Support,Trail,Flat Arch,Women's
+26,168,Neutral,Trail,Flat Arch,Men's
+27,250,Neutral,Road,Flat Arch,Men's
+28,133,Support,Road,High Arch,Men's
+29,235,Max Support,Trail,High Arch,Men's
+30,248,Support,Trail,Medium Arch,Men's
+31,196,Support,Trail,Medium Arch,Women's
+32,206,Neutral,Trail,High Arch,Men's
+33,197,Neutral,Trail,Medium Arch,Women's
+34,250,Max Support,Road,Flat Arch,Women's
+35,179,Support,Road,Flat Arch,Men's
+36,120,Neutral,Road,Medium Arch,Women's
+37,192,Support,Road,Medium Arch,Women's
+38,144,Support,Trail,Medium Arch,Men's
+39,198,Max Support,Road,Medium Arch,Men's
+40,155,Max Support,Road,Medium Arch,Women's
+41,200,Max Support,Trail,Medium Arch,Women's
+42,167,Neutral,Trail,High Arch,Women's
+43,180,Max Support,Trail,Flat Arch,Men's
+44,78,Support,Road,Flat Arch,Women's
+45,208,Support,Trail,Medium Arch,Women's
+46,225,Neutral,Road,Flat Arch,Women's
+47,204,Support,Road,High Arch,Men's
+48,169,Neutral,Road,Flat Arch,Women's
+49,191,Support,Road,High Arch,Women's
+50,148,Max Support,Trail,Medium Arch,Men's
+51,237,Support,Road,Medium Arch,Women's
+52,132,Support,Road,Medium Arch,Women's
+53,72,Neutral,Road,High Arch,Men's
+54,165,Neutral,Road,Medium Arch,Men's
+55,242,Neutral,Trail,Flat Arch,Women's
+56,80,Neutral,Road,Medium Arch,Women's
+57,207,Support,Trail,Medium Arch,Women's
+58,191,Support,Trail,Flat Arch,Women's
+59,232,Support,Road,High Arch,Women's
+60,229,Support,Road,High Arch,Men's
+61,104,Max Support,Road,Medium Arch,Men's
+62,248,Support,Trail,High Arch,Men's
+63,91,Support,Trail,Flat Arch,Men's
+64,190,Neutral,Trail,High Arch,Women's
+65,127,Support,Road,Flat Arch,Women's
+66,223,Max Support,Trail,Flat Arch,Men's
+67,185,Max Support,Road,High Arch,Men's
+68,235,Max Support,Trail,Medium Arch,Men's
+69,197,Support,Road,High Arch,Men's
+70,170,Support,Trail,Medium Arch,Women's
+71,228,Max Support,Trail,Medium Arch,Men's
+72,90,Neutral,Road,High Arch,Women's
+73,146,Support,Road,Flat Arch,Women's
+74,216,Max Support,Trail,Medium Arch,Men's
+75,120,Max Support,Road,High Arch,Women's
+76,111,Neutral,Trail,Flat Arch,Men's
+77,145,Max Support,Road,Flat Arch,Men's
+78,181,Support,Road,High Arch,Women's
+79,226,Max Support,Road,Flat Arch,Women's
+80,171,Support,Trail,Medium Arch,Women's
+81,143,Neutral,Road,Flat Arch,Women's
+82,180,Max Support,Road,Flat Arch,Women's
+83,170,Neutral,Trail,High Arch,Men's
+84,179,Max Support,Road,High Arch,Women's
+85,226,Max Support,Road,Medium Arch,Women's
+86,179,Max Support,Trail,Flat Arch,Men's
+87,163,Support,Trail,Flat Arch,Men's
+88,179,Neutral,Trail,Medium Arch,Men's
+89,218,Support,Trail,Flat Arch,Women's
+90,226,Neutral,Trail,Medium Arch,Women's
+91,96,Neutral,Road,Medium Arch,Women's
+92,143,Support,Road,Flat Arch,Women's
+93,180,Support,Trail,Flat Arch,Women's
+94,100,Neutral,Road,Medium Arch,Men's
+95,172,Max Support,Road,High Arch,Women's
+96,161,Support,Road,High Arch,Men's
+97,122,Max Support,Trail,Medium Arch,Men's
+98,165,Max Support,Road,Medium Arch,Men's
+99,103,Neutral,Trail,Medium Arch,Men's
+100,153,Max Support,Trail,Flat Arch,Men's
+101,127,Support,Trail,Medium Arch,Women's
+102,191,Support,Road,Medium Arch,Men's
+103,99,Neutral,Trail,High Arch,Men's
+104,97,Neutral,Road,Medium Arch,Women's
+105,201,Max Support,Trail,Flat Arch,Women's
+106,242,Max Support,Trail,Flat Arch,Women's
+107,232,Support,Road,High Arch,Women's
+108,74,Support,Road,Flat Arch,Women's
+109,228,Support,Trail,Medium Arch,Women's
+110,195,Support,Road,Medium Arch,Men's
+111,186,Neutral,Road,Flat Arch,Women's
+112,122,Neutral,Road,Medium Arch,Men's
+113,225,Support,Trail,High Arch,Women's
+114,188,Support,Road,Medium Arch,Women's
+115,228,Support,Trail,Medium Arch,Women's
+116,149,Max Support,Road,Flat Arch,Men's
+117,112,Support,Trail,High Arch,Men's
+118,238,Max Support,Trail,Flat Arch,Men's
+119,228,Neutral,Trail,Flat Arch,Men's
+120,222,Neutral,Road,Medium Arch,Women's
+121,134,Max Support,Road,Flat Arch,Women's
+122,103,Support,Road,Flat Arch,Men's
+123,172,Support,Road,Flat Arch,Men's
+124,221,Neutral,Trail,Medium Arch,Women's
+125,202,Support,Road,Flat Arch,Women's
+126,104,Neutral,Trail,Flat Arch,Women's
+127,134,Neutral,Trail,High Arch,Women's
+128,110,Neutral,Trail,High Arch,Women's
+129,72,Support,Trail,Flat Arch,Women's
+130,81,Support,Trail,Medium Arch,Men's
+131,187,Support,Road,High Arch,Men's
+132,197,Neutral,Trail,High Arch,Men's
+133,79,Max Support,Road,High Arch,Women's
+134,223,Neutral,Road,Flat Arch,Men's
+135,220,Neutral,Trail,Medium Arch,Men's
+136,183,Neutral,Trail,High Arch,Women's
+137,137,Support,Road,Flat Arch,Women's
+138,198,Neutral,Trail,High Arch,Men's
+139,213,Support,Road,Medium Arch,Men's
+140,85,Neutral,Trail,High Arch,Women's
+141,218,Neutral,Trail,Flat Arch,Men's
+142,238,Max Support,Road,High Arch,Men's
+143,87,Max Support,Trail,High Arch,Women's
+144,195,Support,Road,Medium Arch,Men's
+145,84,Support,Trail,High Arch,Women's
+146,91,Support,Trail,High Arch,Men's
+147,152,Support,Road,High Arch,Men's
+148,246,Max Support,Trail,High Arch,Women's
+149,74,Neutral,Road,High Arch,Women's
+150,149,Support,Road,High Arch,Women's
+151,234,Support,Road,Medium Arch,Men's
+152,130,Support,Road,High Arch,Men's
+153,206,Support,Trail,Flat Arch,Women's
+154,249,Neutral,Road,Flat Arch,Women's
+155,190,Max Support,Road,High Arch,Men's
+156,73,Max Support,Trail,Flat Arch,Women's
+157,238,Support,Road,High Arch,Men's
+158,221,Neutral,Road,High Arch,Women's
+159,80,Neutral,Road,Medium Arch,Men's
+160,178,Support,Trail,Flat Arch,Women's
+161,170,Max Support,Road,High Arch,Women's
+162,209,Neutral,Road,Medium Arch,Women's
+163,170,Max Support,Trail,Flat Arch,Men's
+164,149,Max Support,Trail,Flat Arch,Women's
+165,223,Neutral,Road,High Arch,Women's
+166,81,Support,Road,Flat Arch,Women's
+167,172,Support,Trail,Medium Arch,Men's
+168,177,Support,Trail,Flat Arch,Men's
+169,136,Neutral,Trail,Flat Arch,Men's
+170,86,Neutral,Trail,High Arch,Men's
+171,209,Max Support,Road,High Arch,Women's
+172,73,Neutral,Road,Flat Arch,Women's
+173,209,Support,Road,Flat Arch,Women's
+174,214,Support,Trail,High Arch,Women's
+175,92,Neutral,Trail,Medium Arch,Men's
+176,243,Support,Road,Flat Arch,Men's
+177,97,Max Support,Trail,Flat Arch,Men's
+178,205,Neutral,Trail,High Arch,Men's
+179,120,Max Support,Road,Medium Arch,Men's
+180,128,Support,Road,Medium Arch,Men's
+181,89,Neutral,Trail,High Arch,Men's
+182,150,Neutral,Road,High Arch,Women's
+183,233,Neutral,Trail,High Arch,Women's
+184,179,Neutral,Trail,High Arch,Women's
+185,147,Support,Trail,High Arch,Men's
+186,142,Support,Trail,High Arch,Women's
+187,160,Neutral,Trail,Medium Arch,Men's
+188,80,Neutral,Road,Flat Arch,Men's
+189,70,Max Support,Road,Flat Arch,Women's
+190,107,Neutral,Road,Flat Arch,Men's
+191,229,Max Support,Road,High Arch,Men's
+192,231,Max Support,Road,High Arch,Men's
+193,221,Max Support,Trail,High Arch,Women's
+194,224,Support,Road,Medium Arch,Men's
+195,213,Max Support,Trail,Flat Arch,Men's
+196,82,Support,Trail,Flat Arch,Women's
+197,81,Support,Trail,Medium Arch,Men's
+198,243,Support,Road,Flat Arch,Men's
+199,82,Neutral,Trail,High Arch,Men's
+200,201,Max Support,Road,Flat Arch,Men's
+201,243,Support,Trail,Medium Arch,Women's
+202,111,Max Support,Road,High Arch,Men's
+203,187,Neutral,Road,High Arch,Women's
+204,176,Support,Trail,High Arch,Women's
+205,179,Support,Trail,Flat Arch,Men's
+206,144,Max Support,Road,Medium Arch,Men's
+207,237,Support,Road,Medium Arch,Men's
+208,218,Neutral,Road,High Arch,Men's
+209,166,Neutral,Trail,Medium Arch,Men's
+210,237,Max Support,Road,Flat Arch,Men's
+211,224,Max Support,Trail,High Arch,Women's
+212,195,Support,Trail,High Arch,Women's
+213,115,Support,Trail,Flat Arch,Men's
+214,222,Neutral,Road,Medium Arch,Women's
+215,243,Neutral,Road,High Arch,Men's
+216,184,Support,Road,High Arch,Women's
+217,241,Support,Trail,High Arch,Women's
+218,109,Support,Trail,Medium Arch,Men's
+219,219,Support,Trail,High Arch,Women's
+220,100,Support,Trail,Flat Arch,Women's
+221,174,Max Support,Road,High Arch,Men's
+222,221,Neutral,Road,High Arch,Women's
+223,184,Neutral,Trail,Medium Arch,Women's
+224,164,Support,Road,Flat Arch,Men's
+225,89,Support,Road,Medium Arch,Women's
+226,185,Neutral,Road,Flat Arch,Women's
+227,246,Max Support,Trail,Medium Arch,Women's
+228,128,Neutral,Road,Medium Arch,Women's
+229,155,Max Support,Road,High Arch,Women's
+230,208,Support,Trail,Medium Arch,Men's
+231,122,Max Support,Road,Flat Arch,Women's
+232,233,Support,Road,High Arch,Men's
+233,228,Support,Trail,Medium Arch,Women's
+234,107,Neutral,Road,Flat Arch,Women's
+235,90,Support,Road,Medium Arch,Women's
+236,173,Neutral,Trail,Medium Arch,Women's
+237,185,Max Support,Road,Medium Arch,Men's
+238,178,Neutral,Road,Medium Arch,Women's
+239,247,Neutral,Trail,High Arch,Men's
+240,241,Neutral,Trail,Flat Arch,Men's
+241,198,Max Support,Road,Medium Arch,Men's
+242,223,Support,Trail,Medium Arch,Women's
+243,242,Max Support,Trail,Medium Arch,Women's
+244,247,Neutral,Road,Medium Arch,Men's
+245,133,Neutral,Road,Medium Arch,Men's
+246,82,Max Support,Trail,High Arch,Men's
+247,171,Neutral,Road,High Arch,Men's
+248,189,Support,Trail,High Arch,Men's
+249,237,Support,Road,High Arch,Men's
+250,162,Neutral,Road,Medium Arch,Men's
+251,107,Support,Trail,Flat Arch,Women's
+252,93,Support,Road,Medium Arch,Women's
+253,118,Neutral,Trail,High Arch,Women's
+254,146,Support,Trail,High Arch,Women's
+255,204,Max Support,Trail,High Arch,Men's
+256,213,Neutral,Trail,Medium Arch,Women's
+257,90,Support,Road,Flat Arch,Women's
+258,135,Support,Road,High Arch,Women's
+259,93,Support,Trail,Flat Arch,Men's
+260,189,Support,Road,High Arch,Women's
+261,107,Support,Road,High Arch,Men's
+262,165,Support,Trail,Flat Arch,Women's
+263,113,Support,Trail,Medium Arch,Men's
+264,102,Neutral,Road,Medium Arch,Men's
+265,140,Neutral,Trail,Flat Arch,Men's
+266,120,Support,Road,High Arch,Men's
+267,143,Max Support,Trail,Medium Arch,Men's
+268,122,Neutral,Road,Flat Arch,Women's
+269,172,Max Support,Road,High Arch,Women's
+270,104,Max Support,Road,Medium Arch,Men's
+271,168,Support,Trail,Flat Arch,Women's
+272,232,Support,Trail,Flat Arch,Men's
+273,102,Max Support,Road,Medium Arch,Men's
+274,89,Support,Road,High Arch,Women's
+275,149,Max Support,Road,Medium Arch,Women's
+276,126,Max Support,Trail,High Arch,Women's
+277,96,Max Support,Trail,High Arch,Men's
+278,119,Neutral,Trail,High Arch,Women's
+279,218,Neutral,Trail,Medium Arch,Men's
+280,182,Max Support,Trail,High Arch,Men's
+281,80,Max Support,Road,Medium Arch,Women's
+282,242,Neutral,Road,Flat Arch,Men's
+283,110,Support,Road,Flat Arch,Men's
+284,200,Max Support,Trail,High Arch,Women's
+285,116,Neutral,Trail,High Arch,Women's
+286,209,Support,Trail,Medium Arch,Men's
+287,117,Max Support,Road,Flat Arch,Women's
+288,155,Neutral,Trail,High Arch,Men's
+289,123,Support,Trail,Flat Arch,Men's
+290,157,Support,Road,Flat Arch,Women's
+291,194,Support,Trail,Medium Arch,Men's
+292,72,Neutral,Trail,High Arch,Women's
+293,206,Support,Trail,High Arch,Men's
+294,118,Max Support,Road,High Arch,Men's
+295,216,Neutral,Road,High Arch,Women's
+296,126,Neutral,Trail,Flat Arch,Women's
+297,75,Neutral,Trail,Flat Arch,Women's
+298,121,Neutral,Trail,Flat Arch,Women's
+299,174,Max Support,Road,Medium Arch,Men's
+300,225,Neutral,Road,Medium Arch,Women's
+301,200,Neutral,Road,High Arch,Men's
+302,125,Neutral,Trail,Medium Arch,Men's
+303,225,Max Support,Trail,High Arch,Men's
+304,131,Max Support,Trail,High Arch,Men's
+305,115,Neutral,Road,Flat Arch,Men's
+306,148,Support,Road,Medium Arch,Women's
+307,163,Neutral,Trail,Flat Arch,Men's
+308,223,Neutral,Trail,Medium Arch,Men's
+309,139,Neutral,Trail,Medium Arch,Women's
+310,91,Max Support,Road,High Arch,Women's
+311,165,Neutral,Road,High Arch,Women's
+312,188,Neutral,Road,Medium Arch,Women's
+313,153,Neutral,Road,Flat Arch,Women's
+314,83,Support,Trail,High Arch,Men's
+315,115,Max Support,Road,Medium Arch,Men's
+316,110,Neutral,Trail,High Arch,Men's
+317,177,Support,Road,Medium Arch,Men's
+318,107,Neutral,Trail,High Arch,Men's
+319,247,Support,Road,High Arch,Women's
+320,162,Neutral,Trail,Flat Arch,Men's
+321,222,Support,Trail,Flat Arch,Women's
+322,131,Support,Road,High Arch,Women's
+323,141,Neutral,Trail,High Arch,Women's
+324,87,Neutral,Road,Flat Arch,Men's
+325,123,Support,Road,Medium Arch,Men's
+326,142,Neutral,Road,Medium Arch,Men's
+327,118,Neutral,Trail,High Arch,Men's
+328,195,Neutral,Road,High Arch,Women's
+329,123,Support,Road,Flat Arch,Women's
+330,223,Neutral,Road,Medium Arch,Women's
+331,169,Neutral,Road,Flat Arch,Men's
+332,190,Neutral,Trail,High Arch,Men's
+333,112,Neutral,Trail,Medium Arch,Women's
+334,202,Neutral,Trail,Flat Arch,Women's
+335,88,Neutral,Trail,High Arch,Women's
+336,145,Max Support,Trail,Flat Arch,Men's
+337,84,Max Support,Road,High Arch,Women's
+338,72,Neutral,Road,Flat Arch,Men's
+339,217,Max Support,Trail,Medium Arch,Men's
+340,121,Support,Road,Medium Arch,Men's
+341,231,Support,Road,High Arch,Women's
+342,75,Max Support,Trail,Flat Arch,Men's
+343,195,Neutral,Trail,High Arch,Women's
+344,138,Support,Road,High Arch,Men's
+345,249,Support,Road,Medium Arch,Women's
+346,143,Max Support,Trail,Flat Arch,Women's
+347,91,Support,Road,Medium Arch,Women's
+348,134,Max Support,Trail,Medium Arch,Women's
+349,116,Support,Trail,High Arch,Men's
+350,217,Max Support,Trail,High Arch,Men's
+351,138,Neutral,Trail,High Arch,Men's
+352,195,Max Support,Trail,High Arch,Women's
+353,100,Neutral,Road,High Arch,Women's
+354,215,Max Support,Trail,High Arch,Women's
+355,191,Support,Trail,Medium Arch,Women's
+356,230,Support,Trail,High Arch,Women's
+357,243,Neutral,Road,Medium Arch,Women's
+358,123,Support,Road,Flat Arch,Women's
+359,98,Max Support,Road,Flat Arch,Women's
+360,219,Support,Trail,Flat Arch,Women's
+361,192,Support,Road,Medium Arch,Men's
+362,243,Max Support,Road,Flat Arch,Men's
+363,177,Neutral,Road,Medium Arch,Men's
+364,106,Max Support,Road,Flat Arch,Women's
+365,177,Neutral,Road,Flat Arch,Men's
+366,92,Support,Trail,Medium Arch,Women's
+367,224,Max Support,Road,Flat Arch,Men's
+368,198,Neutral,Trail,High Arch,Women's
+369,222,Neutral,Road,Medium Arch,Men's
+370,173,Neutral,Road,Flat Arch,Men's
+371,232,Max Support,Road,Flat Arch,Men's
+372,206,Max Support,Road,Medium Arch,Women's
+373,218,Max Support,Road,Medium Arch,Men's
+374,234,Neutral,Road,Medium Arch,Men's
+375,243,Max Support,Road,Flat Arch,Women's
+376,145,Max Support,Trail,Medium Arch,Men's
+377,98,Max Support,Road,High Arch,Women's
+378,239,Neutral,Road,Flat Arch,Men's
+379,158,Max Support,Trail,High Arch,Women's
+380,150,Neutral,Road,Medium Arch,Women's
+381,95,Support,Road,High Arch,Women's
+382,77,Neutral,Trail,Flat Arch,Women's
+383,134,Max Support,Road,High Arch,Women's
+384,166,Support,Trail,Flat Arch,Men's
+385,164,Neutral,Trail,Flat Arch,Men's
+386,91,Neutral,Road,High Arch,Women's
+387,198,Support,Road,High Arch,Men's
+388,122,Max Support,Trail,Medium Arch,Women's
+389,194,Neutral,Road,High Arch,Women's
+390,198,Support,Trail,Medium Arch,Women's
+391,191,Max Support,Trail,High Arch,Men's
+392,114,Neutral,Trail,Medium Arch,Men's
+393,78,Neutral,Trail,High Arch,Men's
+394,215,Neutral,Road,Medium Arch,Women's
+395,243,Neutral,Trail,Medium Arch,Women's
+396,97,Support,Road,Flat Arch,Women's
+397,131,Neutral,Trail,High Arch,Women's
+398,102,Neutral,Trail,Medium Arch,Men's
+399,72,Support,Road,Flat Arch,Men's
+400,144,Neutral,Road,Flat Arch,Women's
+401,155,Support,Road,Medium Arch,Men's
+402,231,Support,Trail,Medium Arch,Women's
+403,78,Support,Trail,Flat Arch,Men's
+404,108,Support,Road,High Arch,Men's
+405,128,Support,Road,Medium Arch,Men's
+406,99,Support,Road,High Arch,Men's
+407,163,Max Support,Trail,Flat Arch,Men's
+408,208,Neutral,Road,High Arch,Women's
+409,98,Support,Road,High Arch,Women's
+410,170,Max Support,Road,Medium Arch,Men's
+411,126,Max Support,Road,Medium Arch,Men's
+412,163,Max Support,Road,High Arch,Women's
+413,173,Support,Trail,Flat Arch,Women's
+414,137,Max Support,Road,Flat Arch,Women's
+415,235,Max Support,Trail,High Arch,Men's
+416,178,Neutral,Road,High Arch,Men's
+417,131,Neutral,Trail,Medium Arch,Men's
+418,150,Neutral,Trail,Flat Arch,Men's
+419,222,Support,Trail,Medium Arch,Men's
+420,137,Neutral,Road,Medium Arch,Men's
+421,74,Support,Road,Flat Arch,Women's
+422,245,Max Support,Road,Flat Arch,Women's
+423,107,Max Support,Trail,Flat Arch,Men's
+424,192,Support,Road,Flat Arch,Men's
+425,70,Support,Trail,High Arch,Men's
+426,195,Support,Road,High Arch,Men's
+427,169,Support,Trail,Medium Arch,Women's
+428,156,Neutral,Trail,High Arch,Women's
+429,81,Neutral,Road,Medium Arch,Men's
+430,164,Neutral,Trail,Medium Arch,Women's
+431,147,Max Support,Trail,Medium Arch,Women's
+432,73,Support,Road,High Arch,Women's
+433,82,Neutral,Trail,High Arch,Men's
+434,117,Support,Trail,High Arch,Women's
+435,179,Max Support,Road,High Arch,Women's
+436,71,Support,Trail,Flat Arch,Women's
+437,158,Max Support,Road,Flat Arch,Men's
+438,89,Max Support,Road,Flat Arch,Women's
+439,124,Max Support,Trail,Medium Arch,Women's
+440,176,Support,Trail,High Arch,Men's
+441,197,Neutral,Trail,Medium Arch,Women's
+442,111,Neutral,Trail,High Arch,Men's
+443,172,Neutral,Trail,Medium Arch,Men's
+444,168,Support,Trail,High Arch,Women's
+445,117,Neutral,Trail,Flat Arch,Women's
+446,167,Support,Trail,Medium Arch,Women's
+447,76,Support,Trail,Medium Arch,Men's
+448,190,Neutral,Road,High Arch,Men's
+449,112,Neutral,Road,Flat Arch,Women's
+450,188,Support,Trail,Flat Arch,Men's
+451,125,Support,Road,High Arch,Men's
+452,123,Max Support,Trail,High Arch,Men's
+453,219,Max Support,Trail,High Arch,Women's
+454,137,Neutral,Trail,High Arch,Men's
+455,221,Support,Trail,Medium Arch,Women's
+456,242,Neutral,Trail,Medium Arch,Women's
+457,92,Neutral,Road,Flat Arch,Women's
+458,173,Neutral,Road,Medium Arch,Women's
+459,151,Max Support,Road,High Arch,Women's
+460,145,Support,Trail,High Arch,Men's
+461,236,Support,Road,Medium Arch,Women's
+462,133,Neutral,Road,High Arch,Women's
+463,186,Support,Trail,High Arch,Men's
+464,97,Max Support,Road,Medium Arch,Women's
+465,241,Neutral,Road,Flat Arch,Women's
+466,144,Neutral,Road,High Arch,Men's
+467,158,Max Support,Trail,Flat Arch,Men's
+468,186,Max Support,Trail,Flat Arch,Men's
+469,143,Max Support,Trail,High Arch,Men's
+470,120,Neutral,Trail,High Arch,Men's
+471,97,Neutral,Trail,Flat Arch,Women's
+472,209,Max Support,Road,Medium Arch,Men's
+473,94,Max Support,Road,Flat Arch,Women's
+474,155,Neutral,Trail,High Arch,Men's
+475,247,Max Support,Trail,Medium Arch,Women's
+476,95,Support,Road,Medium Arch,Men's
+477,209,Neutral,Trail,Flat Arch,Women's
+478,144,Max Support,Trail,High Arch,Men's
+479,130,Support,Trail,High Arch,Women's
+480,245,Support,Road,High Arch,Women's
+481,191,Max Support,Road,Flat Arch,Men's
+482,135,Support,Trail,High Arch,Women's
+483,121,Neutral,Trail,High Arch,Men's
+484,174,Max Support,Trail,High Arch,Women's
+485,198,Support,Trail,Flat Arch,Women's
+486,203,Max Support,Trail,Medium Arch,Women's
+487,209,Max Support,Road,Flat Arch,Men's
+488,145,Neutral,Road,High Arch,Men's
+489,180,Neutral,Trail,High Arch,Men's
+490,156,Support,Trail,Medium Arch,Men's
+491,91,Support,Trail,Flat Arch,Women's
+492,142,Max Support,Road,High Arch,Women's
+493,96,Max Support,Road,High Arch,Men's
+494,116,Max Support,Trail,Medium Arch,Women's
+495,166,Max Support,Trail,Medium Arch,Men's
+496,104,Neutral,Trail,High Arch,Men's
+497,96,Support,Road,Medium Arch,Men's
+498,76,Support,Road,Flat Arch,Women's
+499,138,Neutral,Trail,High Arch,Men's
+500,156,Max Support,Road,Medium Arch,Women's

@@ -1,0 +1,51 @@
+name,gender,price,support,experience,surface,midsole_drop_mm,weight_g,high_arch,medium_arch,flat_arch
+Addiction 14,Men's,130.0,Max Support,Cushion,Road,12.0,357.2,False,True,True
+Adrenaline GTS 20,Men's,130.0,Support,Cushion,Road,12.0,300.5,True,True,False
+Anthem 3,Men's,69.95,Neutral,Cushion,Road,10.0,212.6,True,True,False
+Asteria,Men's,110.0,Support,Speed,Road,8.0,235.3,False,True,True
+Beast 20,Men's,160.0,Max Support,Cushion,Road,12.0,331.7,False,True,True
+Bedlam 3,Men's,150.0,Support,Energize,Road,8.0,306.2,True,True,False
+Caldera 4,Men's,140.0,Neutral,Energize,Trail,4.0,283.5,True,True,False
+Cascadia 15,Men's,130.0,Neutral,Cushion,Trail,8.0,311.8,True,True,False
+Cascadia 15 GTX,Men's,160.0,Neutral,Cushion,Trail,8.0,331.7,True,True,False
+Catamount,Men's,160.0,Neutral,Speed,Trail,6.0,263.7,True,True,True
+Divide,Men's,100.0,Neutral,Cushion,Trail,8.0,292.0,True,True,False
+Dyad 11,Men's,130.0,Neutral,Cushion,Road,10.0,328.9,False,True,True
+Ghost 13,Men's,130.0,Neutral,Cushion,Road,12.0,286.3,True,True,False
+Glycerin 18,Men's,150.0,Neutral,Cushion,Road,10.0,289.2,True,True,False
+Hyperion,Men's,130.0,Neutral,Speed,Road,10.0,181.4,True,True,False
+Hyperion Tempo,Men's,150.0,Neutral,Speed,Road,8.0,207.0,True,True,True
+Hyperion Elite,Unisex,250.0,Neutral,Speed,Road,8.0,195.6,True,True,True
+Launch 7,Men's,100.0,Neutral,Speed,Road,10.0,255.1,True,True,False
+Levitate 4,Men's,150.0,Neutral,Energize,Road,8.0,292.0,True,True,False
+PureFlow 7,Men's,90.0,Neutral,Connect,Road,4.0,252.3,True,True,False
+PureGrit 8,Men's,78.0,Neutral,Connect,Trail,4.0,263.7,True,True,False
+Ravenna 11,Men's,110.0,Support,Speed,Road,10.0,266.5,False,True,True
+Revel 4,Men's,100.0,Neutral,Energize,Road,8.0,252.3,True,True,False
+Ricochet 2,Men's,120.0,Neutral,Energize,Road,8.0,275.0,True,True,False
+Ricochet 2 LE,Men's,120.0,Neutral,Energize,Road,8.0,275.0,True,True,False
+Transcend 7,Men's,160.0,Support,Cushion,Road,10.0,303.3,False,True,True
+Ghost 13,Women's,130.0,Neutral,Cushion,Road,12.0,249.5,True,True,False
+Adrenaline GTS 20,Women's,130.0,Support,Cushion,Road,12.0,266.5,True,True,False
+Revel 4,Women's,100.0,Neutral,Energize,Road,8.0,224.0,True,True,False
+Glycerin 18,Women's,150.0,Neutral,Cushion,Road,10.0,255.1,True,True,False
+Levitate 4,Women's,150.0,Neutral,Energize,Road,8.0,260.8,True,True,False
+Bedlam 3,Women's,150.0,Support,Energize,Road,8.0,269.3,True,True,False
+Addiction 14,Women's,130.0,Max Support,Cushion,Road,12.0,323.2,False,True,True
+PureFlow 7,Women's,90.0,Neutral,Connect,Road,4.0,212.6,True,True,False
+Ravenna 11,Women's,110.0,Support,Speed,Road,10.0,238.1,False,True,True
+Transcend 7,Women's,160.0,Support,Cushion,Road,10.0,269.3,False,True,True
+Ricochet 2,Women's,120.0,Neutral,Energize,Road,8.0,238.1,True,True,False
+Cascadia 15,Women's,130.0,Neutral,Cushion,Trail,8.0,283.5,True,True,False
+Divide,Women's,100.0,Neutral,Cushion,Trail,8.0,260.8,True,True,False
+Hyperion Elite 2,Unisex,250.0,Neutral,Speed,Road,8.0,215.5,True,True,True
+Hyperion Tempo,Women's,150.0,Neutral,Speed,Road,8.0,189.9,True,True,True
+Caldera 4,Women's,140.0,Neutral,Energize,Trail,4.0,252.3,True,True,False
+Ricochet 2 LE,Women's,120.0,Neutral,Energize,Road,8.0,275.0,True,True,False
+Cascadia 15 GTX,Women's,160.0,Neutral,Cushion,Trail,8.0,294.8,True,True,False
+Anthem 3,Women's,69.95,Neutral,Cushion,Road,10.0,235.3,True,True,False
+Hyperion,Women's,130.0,Neutral,Speed,Road,10.0,161.6,True,True,False
+Launch 7,Women's,100.0,Neutral,Speed,Road,10.0,226.8,True,True,False
+Dyad 10,Women's,84.5,Neutral,Cushion,Road,10.0,297.7,False,True,True
+Ariel '18,Women's,104.0,Max Support,Cushion,Road,12.0,334.5,False,True,True
+PureGrit 8,Women's,78.0,Neutral,Connect,Trail,4.0,232.5,True,True,False
